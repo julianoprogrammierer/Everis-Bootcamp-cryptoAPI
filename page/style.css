@@ -1,0 +1,11 @@
+.breadcrumb-item {
+    background-color: black !important;
+    font-style: oblique;
+    color: darkgoldenrod !important;
+   
+    margin-left: 42%;
+    font-size: 200%;
+}
+:root{
+    background-color: black !important;
+}
