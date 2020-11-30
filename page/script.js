@@ -14,7 +14,7 @@ fetch('https://pro-api.coinmarketcap.com/v1/cryptocurrency/map?CMC_PRO_API_KEY='
     
     var texto = "";
     // Get 10 coins and symbols 
-    for(let i = 0; i < 10; i++){
+    for(let i = 0; i < 9; i++){
 
 
 
